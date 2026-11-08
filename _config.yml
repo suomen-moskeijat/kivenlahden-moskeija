@@ -1,0 +1,10 @@
+# Kivenlahden moskeija – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Kivenlahden moskeija"
+description: "Kivenlahden moskeija, Jälkimaininki 4, Espoo. Rukousajat, tapahtumat ja toiminta."
+moskeija: kivenlahden-moskeija     # tiedosto _moskeijat/kivenlahden-moskeija.md
+
+# Osoite: https://suomen-moskeijat.github.io/kivenlahden-moskeija/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/kivenlahden-moskeija"
